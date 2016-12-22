@@ -1,0 +1,21 @@
+{
+  "name": "squirel",
+  "version": "1.0.0",
+  "description": "Testing Deploy using squirrel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Meloy",
+  "license": "ISC",
+  "dependencies": {
+    "electron-gh-releases": "^2.0.4"
+  },
+  "repository": {
+    "name": "test update",
+    "description": "testing GIT deploy",
+    "author": "Mike",
+    "version": "1.0.0",
+    "main": "https://github.com/meloydev/test-deploy.git"
+  }
+}
